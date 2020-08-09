@@ -1,0 +1,9 @@
+﻿  win32_platform.cpp
+C:\Users\dav-h\source\repos\game_cpp\game_cpp\renderer.cpp(47,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dav-h\source\repos\game_cpp\game_cpp\renderer.cpp(48,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dav-h\source\repos\game_cpp\game_cpp\renderer.cpp(49,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dav-h\source\repos\game_cpp\game_cpp\renderer.cpp(50,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dav-h\source\repos\game_cpp\game_cpp\game.cpp(158,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dav-h\source\repos\game_cpp\game_cpp\game.cpp(162,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dav-h\source\repos\game_cpp\game_cpp\win32_platform.cpp(59,6): warning C4007: 'WinMain': must be '__stdcall'
+  game_cpp.vcxproj -> C:\Users\dav-h\source\repos\game_cpp\Debug\game_cpp.exe
